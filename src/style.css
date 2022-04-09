@@ -1,3 +1,29 @@
-body{
+head{
     font-style: italic;
+}
+header{
+    font-style: italic;
+    color: aqua;
+}
+.example{
+    font-size: larger;
+    background-color: white;
+}
+#Names > li{
+    color: red;
+}
+li:first-child{
+    color: green !important;
+}
+li:nth-child(2){
+    color: lightpink;
+}
+input{
+    background-color: blueviolet;
+}
+#Whatsapp{
+    background-color: aquamarine;
+}
+.heloo{
+    background-color: brown;
 }
